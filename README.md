@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vampelium</h1>
-<h3 align="center">A passionate developer from the US</h3>
+<h3 align="center">A passionate developer from the CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampelium&label=Profile%20views&color=0e75b6&style=flat" alt="vampelium" /> </p>
 
@@ -34,9 +34,7 @@
 
 ### 🔥 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&hide_border=true&theme=nord&langs_count=3&layout=compact&card_width=445&custom_title=My%20Languages&title_color=6a51b2&text_color=ffffff&bg_color=282a36&icon_color=6a51b2&border_color=ffffff&hide=html,css,less,scss)
-
-![Custom Language Representation](https://raw.githubusercontent.com/Vampelium/Vampelium/main/languages.png)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&hide_border=true&theme=nord&langs_count=3&layout=compact)
 
 ---
 
