@@ -1,48 +1,26 @@
-### 🌸 Welcome to Vampelium's GitHub Profile 🌸
+# Welcome to My GitHub Profile! 💖
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Python&message=56%&color=ff69b4&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/static/v1?label=HTML%20%26%20CSS&message=25%&color=ff69b4&style=for-the-badge" alt="HTML & CSS" />
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=20%&color=ff69b4&style=for-the-badge" alt="JavaScript" />
-</div>
+Hi there! I'm Vampelium, and I love coding and creating beautiful things with technology. Here's a peek into my world:
 
----
+## Most Used Languages
 
-✨ Hello there, lovely soul! Welcome to my cute and girly corner of the coding universe. I’m Vampelium, and I absolutely adore creating beautiful and enchanting digital experiences. ✨
+![Most Used Languages](https://github.com/Vampelium/vampelium/blob/main/615C8B66-7A2A-444F-A3C0-5676533286BB.jpeg)
 
-## 💖 About Me
-- 🌸 **Name:** Vampelium
-- 🎀 **Pronouns:** She/Her
-- 🌷 **Passions:** Coding, design, and everything magical!
-- 🧚 **Mission:** To blend the mystical charm of fantasy with the elegance of technology, one project at a time.
+## My GitHub Stats
 
-## 🌸 Skills Progress
-I’m on a journey to master the arts of coding and design. Here’s a little peek into my progress:
+![GitHub Stats](https://github.com/Vampelium/vampelium/blob/main/0C0A0058-0AB5-4A97-A72E-1A8F7FD2D0F9.jpeg)
 
-### 📊 Progress Circle
-![Progress Circle](https://via.placeholder.com/150/FF69B4/FFFFFF?text=Progress+Circle)
+## Projects I'm Working On
 
-- **Python:** 56% - My main love! 🐍✨
-- **HTML & CSS:** 25% - Crafting pretty websites! 🌸
-- **JavaScript:** 20% - Adding a sprinkle of magic! ✨
+- **1Anime AI Character**: An AI character project with call and chat integration.
+- **BloodVampy VM Game App**: An app for custom game stats, in-game guides, tips, and video highlights using AI.
+- **VampOS**: A prototype OS with a cute and futuristic design, featuring a game mode and various apps.
+- **VMEnhancePro**: An upscaler and frame generation application for gaming, using the VMFSR model v1.0.
 
-## 🎀 My Projects
-I work on a variety of projects, from cute and girly websites to magical RPG games and beyond! Here are a few highlights:
+## Get in Touch!
 
-- **✨ Enchanted RPG Game:** A fantasy world where coding meets adventure.
-- **🌷 Pretty Portfolio:** Showcasing my journey and creations.
-
-## 🌸 Let's Connect!
-I’d love to connect with fellow creators and enthusiasts. Feel free to reach out or follow my journey through the digital realms!
-
-- 🌸 **GitHub:** [Vampelium](https://github.com/vampelium)
-- 🎀 **Twitter:** [@vampelium](https://twitter.com/vampelium)
----
-
-Thank you for visiting my profile! Let’s sprinkle some magic into the world of coding together. 🌸✨
+Feel free to connect with me on [GitHub](https://github.com/Vampelium) for updates on my latest projects!
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Stay+Magical&message=❤️&color=ff69b4&style=for-the-badge" alt="Stay Magical" />
-</div>
+Thank you for visiting my profile! I hope you enjoy exploring my work. 🌸
