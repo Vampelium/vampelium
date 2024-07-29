@@ -4,11 +4,11 @@ Hi there! I'm Vampelium, and I love coding and creating beautiful things with te
 
 ## Most Used Languages
 
-![Most Used Languages](https://github.com/Vampelium/vampelium/blob/main/615C8B66-7A2A-444F-A3C0-5676533286BB.jpeg)
+![Most Used Languages](https://github.com/Vampelium/vampelium/blob/main/772A47DB-9672-4A89-834F-EAB4360CFE75.jpeg)
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github.com/Vampelium/vampelium/blob/main/0C0A0058-0AB5-4A97-A72E-1A8F7FD2D0F9.jpeg)
+![GitHub Stats](https://github.com/Vampelium/vampelium/blob/main/file-ZM5wOC1mnaNTsA0zu5hf2PFA.jpeg)
 
 ## Projects I'm Working On
 
