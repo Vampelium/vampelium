@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, JavaScript, and Web Development**
 
-- 📫 How to reach me **vampelium@example.com**
+- 📫 How to reach me **vm@vampelium.com**
 
 - ⚡ Fun fact **I love gaming and creating music!**
 
@@ -29,11 +29,11 @@
 
 ### 📊 GitHub Stats
 
-![Vampelium's GitHub Stats](https://camo.githubusercontent.com/50587c104b50ce6b85332a937be74ae5911c2e7e621757492a40c0c71a3ba1f6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76616d70656c69756d26686964655f626f726465723d74727565267468656d653d6e6f7264)
+![Vampelium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vampelium&show_icons=true&hide_border=true&theme=nord)
 
 ### 🔥 Most Used Languages
 
-![Most Used Languages](https://camo.githubusercontent.com/e114ceedf3cc3ec174c0c45bfc97619b40d92f66be3ec135df5d852776ba7915/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76616d70656c69756d2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565267468656d653d6e6f7264)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&hide_border=true&theme=nord)
 
 ---
 
