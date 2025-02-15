@@ -54,6 +54,5 @@ Feel free to connect with me on [GitHub](https://github.com/Vampelium) for updat
 ---
 
 
-https://github.com/Vampelium/Vampelium/blob/output/github-contribution-grid-snake.svg
 
 Thank you for visiting my profile! I hope you enjoy exploring my work. 🌸
