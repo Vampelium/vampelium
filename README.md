@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, JavaScript, and Web Development**
 
-- 📫 How to reach me **vm@vampelium.com**
+- 📫 How to reach me **business@vampelium.com**
 
 - ⚡ Fun fact **I love gaming and creating music!**
 
