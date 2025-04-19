@@ -2,7 +2,7 @@
  🌸   𝓥 𝓪 𝓶 𝓹 𝓮 𝓵 𝓲 𝓾 𝓶 — GitHub Profile README (✨2025 edition✨)
 ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff79c6;">Vampelium</span> (aka Raina April)</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff79c6;">Vampelium</span>)</h1>
 <h3 align="center">A passionate, pink‑powered developer based in 🇨🇦 CA (soon 🇯🇵 JP!)</h3>
 
 <p align="center">
