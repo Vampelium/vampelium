@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vampelium&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views"/>
   &nbsp;•&nbsp;
-  <img src="https://img.shields.io/static/v1?label=Love&message=Pink%20Code%20Energy%20💖&color=ff69b4&style=flat-square" alt="pink energy"/>
+  
 </p>
 
 ---
