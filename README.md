@@ -4,7 +4,7 @@
 
 <!-- Cute pink cherry-blossom banner -->
 <p align="center">
-  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/banner-cherry-blossom.gif"
+  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/IMG_8287.GIF"
        alt="Cherry blossom banner with pink cyber-sparkles" />
 </p>
 
