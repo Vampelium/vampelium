@@ -1,77 +1,91 @@
-<!-- =========================================================
- 🌸   𝓥 𝓪 𝓶 𝓹 𝓮 𝓵 𝓲 𝓾 𝓶 — GitHub Profile README (✨2025 edition✨)
-========================================================= -->
+<!-- ————————————————————————————————————————————
+  💖 𝒱𝒶𝓂𝓅𝑒𝓁𝒾𝓊𝓂 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 𝑅𝐸𝒜𝒟𝑀𝐸   💖
+————————————————————————————————————————————-->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff79c6;">Vampelium</span></h1>
-<h3 align="center">A passionate, pink‑powered developer based in 🇨🇦 CA (soon 🇯🇵 JP!)</h3>
+<!-- Cute pink cherry-blossom banner -->
+<p align="center">
+  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/banner-cherry-blossom.gif"
+       alt="Cherry blossom banner with pink cyber-sparkles" />
+</p>
+
+<h1 align="center">
+  🌸 𝙃𝙞, 𝙄’𝙢 <span style="color:#ff4da6;">Vampelium</span> (aka Reina) 🌸
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vampelium&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views"/>
-  &nbsp;•&nbsp;
-  
+  <samp>
+    Girly developer & designer 💅 • Next.js sorceress 🪄 • Python & TypeScript tamer 🐍<br/>
+    Currently coding in Canada • Soon blooming in Japan 🇨🇦 ➜ 🇯🇵<br/>
+    Lover of gaming 🎮, lo-fi beats 🎧, and kawaii fashion hauls 🛍️
+  </samp>
 </p>
 
----
+<br/>
 
-## 💁🏻‍♀️ Quick Facts
+## 💻 Tech Stack & Toolbelt
+| Frontend | Backend | DevOps / Other |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"> |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white"> | <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"> |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> | &nbsp; | &nbsp; |
 
-- 🌱 **Currently learning:** Machine Learning & Advanced AI  
-- 💬 **Ask me about:** Python • JavaScript • Web Dev • Cyber‑punky UIs  
-- 👩🏻‍💻 **All my projects:** [github.com/Vampelium](https://github.com/Vampelium)  
-- 📫 **Business enquiries:** business@vampelium.com  
-- ⚡ **Fun fact:** Gaming, music production & building cute futuristic OS concepts! 🎮🎶  
+<br/>
 
----
+## 🌟 Signature “Vamp” Projects
+| Project | ✨ What it is | 🔗 |
+| --- | --- | --- |
+| **VampGPT** | Custom AI chat & role-play engine with girly gamer vibes. | [Repo](https://github.com/Vampelium/VampGPT) |
+| **VampGame Engine** | Sleek JS engine featuring VFSR & VFG for buttery in-browser games. | [Repo](https://github.com/Vampelium/VampGameEngine) |
+| **VampCodeX** | Autonomous code agents that build features while you sip bubble tea. 🧋 | [Repo](https://github.com/Vampelium/VampCodeX) |
+| **VampVPN / VampSecurity** | AI-powered threat isolation & DDoS shielding, but make it couture. | [Repo](https://github.com/Vampelium/VampSecurity) |
 
-## 📊 GitHub Analytics
+> _Pinned on my profile—go star them, bestie! ⭐_
 
+<br/>
+
+## 🎀 Fun Facts
+- 🌸 **Design aesthetic**: cyber-pink with sakura sparkles  
+- 🎮 **Current game fixations**: *Clair Obscur: Expedition 33* & indie rhythm gems  
+- ✈️ **Dreaming of** cherry-blossom café coding sessions in Tokyo  
+- 🛍️ **Ultimate splurge**: any coat that pairs with pink thigh-highs  
+- 🎧 **Coding soundtrack**: lo-fi anime beats and Vocaloid bops  
+
+<br/>
+
+## 📬 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vampelium&show_icons=true&hide_border=true&theme=dracula&icon_color=ff79c6&title_color=ff79c6&text_color=f8f8f2" alt="Vampelium's GitHub stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vampelium&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&layout=compact&hide_border=true&theme=dracula&langs_count=6" alt="Top Languages"/>
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-</p>
-
----
-
-## 🚀 Projects in Progress
-
-| 💎 Project | ✨ Status & Goals |
-|------------|------------------|
-| **1AI Tech AI Character** | AI voice & chat companion integrated into streaming |
-| **BloodVampy VM Game App** | Real‑time game stats, tips & highlight reels |
-| **VampOS** | Futuristic, kawaii desktop OS prototype w/ gamer mode |
-| **VMEnhancePro** | AI upscaler & frame generator using **VMFSR v1.0** |
-
----
-
-## 🌸 Let’s Connect
-
-<p>
-  <a href="https://github.com/Vampelium" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20me!-ff69b4?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Vampelium">
+    <img src="https://img.shields.io/badge/GitHub-ff4da6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:business@vampelium.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-ff79c6?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://vampelium.dev">
+    <img src="https://img.shields.io/badge/Website-ff4da6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/vampcutie">
+    <img src="https://img.shields.io/badge/Discord-vampcutie-ff4da6?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
+<br/>
+
+## 📊 GitHub Analytics
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Vampelium&style=flat-square&color=ff4da6)
+
+![Vampelium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vampelium&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4da6&icon_color=ff4da6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4da6)
+
+<!-- WakaTime: replace USER_ID with your own -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USER_ID&theme=tokyonight&hide_border=true&title_color=ff4da6)
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/footer-cherry.gif" width="300" alt="pink sakura petals falling">
+</p>
+
 ---
-
-> *Thanks for stopping by, lovely! May your code compile flawlessly and your coffee always be hot.* ☕💕
-
-<!-- ========================================================= -->
