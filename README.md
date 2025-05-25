@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  🌸 𝙃𝙞, 𝙄’𝙢 <span style="color:#ff4da6;">Vampelium</span> (aka Reina) 🌸
+  🌸 𝙃𝙞, 𝙄’𝙢 <span style="color:#ff4da6;">Vampelium</span> 🌸
 </h1>
 
 <p align="center">
