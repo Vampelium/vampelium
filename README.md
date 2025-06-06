@@ -77,7 +77,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vampelium&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4da6)
 
-<!-- WakaTime: replace USER_ID with your own -->
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USER_ID&theme=tokyonight&hide_border=true&title_color=ff4da6)
 
 </div>
