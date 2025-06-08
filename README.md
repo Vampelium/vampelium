@@ -84,7 +84,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/footer-cherry.gif" width="300" alt="pink sakura petals falling">
+  <img src="https://github.com/Vampelium/Vampelium/raw/main/assets/IMG_2312.GIF" width="300" alt="pink sakura petals falling">
 </p>
 
 ---
