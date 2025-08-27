@@ -40,7 +40,7 @@
 | **VampCodeX** | Autonomous code agents that build features while you sip bubble tea. 🧋 | [Repo](https://github.com/Vampelium/VampCodeX) |
 | **VampVPN / VampSecurity** | AI-powered threat isolation & DDoS shielding, but make it couture. | [Repo](https://github.com/Vampelium/VampSecurity) |
 
-> _Pinned on my profile—go star them, bestie! ⭐_
+> _these projects are still a wip! ⭐_
 
 <br/>
 
