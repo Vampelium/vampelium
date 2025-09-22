@@ -2,9 +2,11 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight
+    - cron: "0 0 * * *"  
   workflow_dispatch:
 
+permissions:
+  contents: write          
 jobs:
   update-readme:
     name: Update WakaTime Stats
@@ -13,4 +15,4 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
