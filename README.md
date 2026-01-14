@@ -73,7 +73,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Vampelium&style=flat-square&color=ff4da6)
 
-![Vampelium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vampelium&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4da6&icon_color=ff4da6)
+![Vampelium's GitHub Stats](https://github-readme-stats-vampy.vercel.app/api?username=Vampelium&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4da6&icon_color=ff4da6)
 
 ![Top Langs](https://github-readme-stats-vampy.vercel.app/api/top-langs?username=Vampelium&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true)
 
