@@ -32,18 +32,6 @@
 
 <br/>
 
-## 🌟 Signature “Vamp” Projects
-| Project | ✨ What it is | 🔗 |
-| --- | --- | --- |
-| **VampGPT** | Custom AI chat & role-play engine with girly gamer vibes. | [Repo](https://github.com/Vampelium/VampGPT) |
-| **VampGame Engine** | Sleek JS engine featuring VFSR & VFG for buttery in-browser games. | [Repo](https://github.com/Vampelium/VampGameEngine) |
-| **VampCodeX** | Autonomous code agents that build features while you sip bubble tea. 🧋 | [Repo](https://github.com/Vampelium/VampCodeX) |
-| **VampVPN / VampSecurity** | AI-powered threat isolation & DDoS shielding, but make it couture. | [Repo](https://github.com/Vampelium/VampSecurity) |
-
-> _these projects are still a wip! ⭐_
-
-<br/>
-
 ## 🎀 Fun Facts
 - 🌸 **Design aesthetic**: cyber-pink with sakura sparkles  
 - 🎮 **Current game fixations**: *Clair Obscur: Expedition 33* & indie rhythm gems  
