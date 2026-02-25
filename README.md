@@ -66,7 +66,7 @@
 ![Top Langs](https://github-readme-stats-vampy.vercel.app/api/top-langs?username=Vampelium&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true)
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vampelium&theme=tokyonight&hide_border=true&title_color=ff4da6)
+
 </div>
 
 <br/>
